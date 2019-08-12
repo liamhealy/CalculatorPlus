@@ -3,3 +3,4 @@ This repository contains the code for an arduino calculator. Arduino code is wri
 
 ## What this code does
 As long as the setup of the arduino hardware is correct, this code will allow a user to perform calculations of Binary, Octal, and Hexadecimal values.
+
