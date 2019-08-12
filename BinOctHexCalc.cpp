@@ -1,13 +1,6 @@
-//Professor,
-//For the second part of my project
-//I upgraded project part 1 to be
-//able to handle scrolling right
-//as well as left, and also octal
-//and hexadecimal addition, there
-//are a lot of things commented out on here,
-//but because I'm reaching the due date,
-//I plan to resubmit tomorrow after
-//cleaning everything up.
+// Final Project for Professor Gormanly's
+// Computer Organization and Architecture class
+// CMPT 422N - Marist College
 //-------------
 #include <LiquidCrystal.h>
 #include <stdint.h>
